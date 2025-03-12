@@ -2,6 +2,8 @@
 
 Welcome to my GitHub portfolio! This repository contains Jupyter Notebooks demonstrating my skills in Python, data analysis, and machine learning.
 
+
+
 **📁 Recent Projects**
 
 1️⃣ Beat The Algorithm - Leveraging Machine Learning for Hit Songs
@@ -22,9 +24,12 @@ Welcome to my GitHub portfolio! This repository contains Jupyter Notebooks demon
 	•	Machine Learning for predictive analytics.
  
 
+
 **⭐️ Get Involved**
 
 If you find any of these projects interesting, feel free to fork the repository, open issues, or reach out!
+
+
 
 **📬 Contact**
 	•	LinkedIn: https://www.linkedin.com/in/sajodajo/
