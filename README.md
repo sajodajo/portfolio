@@ -4,24 +4,24 @@ This repository contains a collection of Jupyter Notebooks that demonstrate my e
   
 **📁 Recent Projects**
 
-1️⃣ Beat The Algorithm - Leveraging Machine Learning for Hit Songs
-	•	Description: A machine learning project that analyzes factors contributing to hit songs.
+1️⃣ Beat The Algorithm - Leveraging Machine Learning for Hit Songs<br>
+	•	Description: A machine learning project that analyzes factors contributing to hit songs.<br>
 	•	Notebook: Beat The Algorithm.ipynb
 
-2️⃣ Airline Passengers - Data Analysis
-	•	Description: Data preprocessing and analysis of airline passenger trends.
+2️⃣ Airline Passengers - Data Analysis<br>
+	•	Description: Data preprocessing and analysis of airline passenger trends.<br>
 	•	Notebook: Airline Passengers.ipynb
 
-3️⃣ Notebook TOW_SJ
-	•	Description: Jupyter Notebook setup and initial configurations.
+3️⃣ Notebook TOW_SJ<br>
+	•	Description: Jupyter Notebook setup and initial configurations.<br>
 	•	Notebook: notebookTOW_SJ.ipynb
 
 <br>
 
-**🛠 Technologies Used**
-	•	Python (pandas, NumPy, scikit-learn, Matplotlib, etc.)
-	•	Jupyter Notebooks for data exploration and modeling.
-	•	Machine Learning for predictive analytics.
+**🛠 Technologies Used**<br>
+	•	Python (pandas, NumPy, scikit-learn, Matplotlib, etc.)<br>
+	•	Jupyter Notebooks for data exploration and modeling.<br>
+	•	Machine Learning for predictive analytics.<br>
  
 <br>
 
@@ -29,8 +29,8 @@ This repository contains a collection of Jupyter Notebooks that demonstrate my e
 
 If you find any of these projects interesting, feel free to fork the repository, open issues, or reach out!
 
-<br><br>
+<br>
 
-**📬 Contact**
-	•	LinkedIn: https://www.linkedin.com/in/sajodajo/
+**📬 Contact**<br>
+	•	LinkedIn: https://www.linkedin.com/in/sajodajo/<br>
 	•	Email: samjones116@gmail.com
