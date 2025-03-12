@@ -1,8 +1,6 @@
+This repository contains a collection of Jupyter Notebooks that demonstrate my expertise in Python, data analysis, and machine learning. Each project focuses on a specific problem, utilizing data-driven techniques, statistical analysis, and machine learning models to extract insights and make predictions.
 
-
-Welcome to my GitHub portfolio! This repository contains Jupyter Notebooks demonstrating my skills in Python, data analysis, and machine learning.
-
-<br><br>
+<br>
   
 **📁 Recent Projects**
 
@@ -18,12 +16,14 @@ Welcome to my GitHub portfolio! This repository contains Jupyter Notebooks demon
 	•	Description: Jupyter Notebook setup and initial configurations.
 	•	Notebook: notebookTOW_SJ.ipynb
 
-🛠 Technologies Used
+<br>
+
+**🛠 Technologies Used**
 	•	Python (pandas, NumPy, scikit-learn, Matplotlib, etc.)
 	•	Jupyter Notebooks for data exploration and modeling.
 	•	Machine Learning for predictive analytics.
  
-<br><br>
+<br>
 
 **⭐️ Get Involved**
 
