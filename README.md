@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio! This repository contains Jupyter Notebooks demonstrating my skills in Python, data analysis, and machine learning.
 
-  
+<br><br>
   
 **📁 Recent Projects**
 
@@ -23,13 +23,13 @@ Welcome to my GitHub portfolio! This repository contains Jupyter Notebooks demon
 	•	Jupyter Notebooks for data exploration and modeling.
 	•	Machine Learning for predictive analytics.
  
-
+<br><br>
 
 **⭐️ Get Involved**
 
 If you find any of these projects interesting, feel free to fork the repository, open issues, or reach out!
 
-
+<br><br>
 
 **📬 Contact**
 	•	LinkedIn: https://www.linkedin.com/in/sajodajo/
