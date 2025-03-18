@@ -1,4 +1,4 @@
-This repository contains a collection of Jupyter Notebooks that demonstrate my expertise in Python, data analysis, and machine learning. Each project focuses on a specific problem, utilizing data-driven techniques, statistical analysis, and machine learning models to extract insights and make predictions.
+This repository contains a collection of notebooks/scripts that demonstrate my knowledge in Python, data analysis, and machine learning. Each project focuses on a specific problem, utilizing data-driven techniques, statistical analysis, and machine learning models to extract insights and make predictions.
 
 <br>
   
