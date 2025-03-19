@@ -1,0 +1,8 @@
+seaborn
+pandas
+numpy
+simfin
+matplotlib
+statsmodels
+arch
+dotenv
